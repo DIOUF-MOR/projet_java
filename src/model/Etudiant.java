@@ -43,7 +43,7 @@ public class Etudiant extends Personne {
 
     @Override
     public String toString() {
-        return "Etudiant [id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", telephone=" + telephone + ", dateDeNaissance=" + dateDeNaissance
+        return "Etudiant [id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", telephone=" + telephone + "git init, dateDeNaissance=" + dateDeNaissance
                 + "]";
     }
 
